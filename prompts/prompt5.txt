@@ -1,0 +1,17 @@
+You are a coding assistant. Please create a README.md file for my  project. 
+
+The README should include the following sections:
+
+1. Project Overview
+   - Briefly explain the purpose of the project and what it does.
+   
+2. Folder Structure
+   - List all folders and files with a short description of each.
+
+3. How to Run Scripts
+   - Include step-by-step instructions to run Python scripts, generate CSVs, ingest data into SQLite, and run the SQL query.
+
+4. SQL Query Output
+   - Briefly explain what the SQL query produces (e.g., customer name, number of orders, total spent, most purchased category, average rating).
+
+Make it clear, professional, and easy to follow.

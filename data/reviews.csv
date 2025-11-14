@@ -1,0 +1,82 @@
+review_id,product_id,customer_id,rating,review_text,review_date
+REV00001,PROD0007,CUST0002,5,Love it! Exactly as described.,2025-05-12
+REV00002,PROD0031,CUST0062,4,Love it! Exactly as described.,2025-04-02
+REV00003,PROD0012,CUST0007,3,"Average quality, works fine.",2025-01-15
+REV00004,PROD0008,CUST0009,4,Perfect for my needs. Very satisfied.,2025-07-12
+REV00005,PROD0005,CUST0074,1,Quality could be better for the price.,2024-04-22
+REV00006,PROD0010,CUST0073,3,"It's okay, does the job.",2024-06-13
+REV00007,PROD0016,CUST0016,5,Better than expected. Great purchase!,2024-07-23
+REV00008,PROD0027,CUST0078,5,Better than expected. Great purchase!,2025-03-09
+REV00009,PROD0040,CUST0029,5,Perfect for my needs. Very satisfied.,2024-02-19
+REV00010,PROD0029,CUST0057,3,"Average quality, works fine.",2024-12-10
+REV00011,PROD0020,CUST0073,5,Great product! Highly recommended.,2025-06-12
+REV00012,PROD0040,CUST0013,2,Quality could be better for the price.,2025-09-17
+REV00013,PROD0017,CUST0085,1,Quality could be better for the price.,2025-08-31
+REV00014,PROD0016,CUST0023,5,Great product! Highly recommended.,2025-08-14
+REV00015,PROD0011,CUST0001,4,Perfect for my needs. Very satisfied.,2025-08-09
+REV00016,PROD0045,CUST0077,4,Love it! Exactly as described.,2025-03-22
+REV00017,PROD0003,CUST0030,3,"As expected, nothing more.",2025-07-04
+REV00018,PROD0045,CUST0059,1,Quality could be better for the price.,2025-01-06
+REV00019,PROD0060,CUST0034,5,Outstanding quality and value.,2025-08-09
+REV00020,PROD0052,CUST0026,4,Great product! Highly recommended.,2025-09-27
+REV00021,PROD0035,CUST0029,2,Had some issues with this product.,2025-04-24
+REV00022,PROD0053,CUST0019,1,Not what I expected. Disappointed.,2023-08-19
+REV00023,PROD0011,CUST0040,5,Outstanding quality and value.,2025-09-08
+REV00024,PROD0053,CUST0073,3,"Average quality, works fine.",2024-01-25
+REV00025,PROD0008,CUST0060,3,"Average quality, works fine.",2025-04-21
+REV00026,PROD0061,CUST0035,5,"Amazing product, will buy again!",2025-11-12
+REV00027,PROD0032,CUST0057,1,"Average product, nothing special.",2024-03-20
+REV00028,PROD0003,CUST0056,3,"As expected, nothing more.",2024-03-31
+REV00029,PROD0002,CUST0012,2,"Average product, nothing special.",2025-10-15
+REV00030,PROD0038,CUST0003,3,"It's okay, does the job.",2025-10-28
+REV00031,PROD0049,CUST0023,4,"Amazing product, will buy again!",2025-09-16
+REV00032,PROD0042,CUST0057,3,Decent product for the price.,2024-11-17
+REV00033,PROD0038,CUST0056,4,Great product! Highly recommended.,2025-05-11
+REV00034,PROD0031,CUST0045,4,Love it! Exactly as described.,2025-01-10
+REV00035,PROD0021,CUST0086,1,Quality could be better for the price.,2025-08-29
+REV00036,PROD0022,CUST0053,4,Love it! Exactly as described.,2025-11-04
+REV00037,PROD0043,CUST0052,5,Great product! Highly recommended.,2025-03-30
+REV00038,PROD0030,CUST0012,3,"As expected, nothing more.",2025-11-05
+REV00039,PROD0021,CUST0015,4,Better than expected. Great purchase!,2024-04-24
+REV00040,PROD0033,CUST0001,5,Perfect for my needs. Very satisfied.,2025-10-17
+REV00041,PROD0027,CUST0007,2,"Average product, nothing special.",2024-07-04
+REV00042,PROD0024,CUST0080,4,Outstanding quality and value.,2025-10-14
+REV00043,PROD0029,CUST0007,2,Had some issues with this product.,2025-03-07
+REV00044,PROD0036,CUST0017,3,"Average quality, works fine.",2025-10-27
+REV00045,PROD0057,CUST0090,4,Great product! Highly recommended.,2023-10-25
+REV00046,PROD0002,CUST0081,5,Better than expected. Great purchase!,2024-06-19
+REV00047,PROD0016,CUST0021,3,"It's okay, does the job.",2024-11-25
+REV00048,PROD0036,CUST0053,1,Quality could be better for the price.,2025-11-11
+REV00049,PROD0054,CUST0015,4,Great product! Highly recommended.,2025-09-07
+REV00050,PROD0042,CUST0020,4,Outstanding quality and value.,2025-05-03
+REV00051,PROD0019,CUST0066,3,"Average quality, works fine.",2025-04-01
+REV00052,PROD0054,CUST0062,4,Excellent quality and fast shipping.,2025-08-06
+REV00053,PROD0030,CUST0071,2,Could use some improvements.,2025-04-27
+REV00054,PROD0013,CUST0077,5,Outstanding quality and value.,2025-04-13
+REV00055,PROD0057,CUST0018,1,Had some issues with this product.,2024-06-01
+REV00056,PROD0050,CUST0054,3,"As expected, nothing more.",2025-08-04
+REV00057,PROD0053,CUST0001,3,"As expected, nothing more.",2025-09-30
+REV00058,PROD0054,CUST0076,5,Outstanding quality and value.,2025-08-05
+REV00059,PROD0032,CUST0020,4,"Amazing product, will buy again!",2025-08-27
+REV00060,PROD0031,CUST0045,3,"Average quality, works fine.",2023-08-10
+REV00061,PROD0030,CUST0042,2,Quality could be better for the price.,2025-08-31
+REV00062,PROD0037,CUST0050,2,Could use some improvements.,2025-05-08
+REV00063,PROD0003,CUST0041,4,Outstanding quality and value.,2025-10-12
+REV00064,PROD0059,CUST0049,4,Outstanding quality and value.,2024-06-15
+REV00065,PROD0051,CUST0084,2,Could use some improvements.,2025-07-25
+REV00066,PROD0062,CUST0005,2,"Average product, nothing special.",2025-07-04
+REV00067,PROD0062,CUST0076,3,"It's okay, does the job.",2025-07-03
+REV00068,PROD0056,CUST0057,1,"Average product, nothing special.",2025-04-27
+REV00069,PROD0059,CUST0059,1,Quality could be better for the price.,2025-08-24
+REV00070,PROD0027,CUST0084,2,Not what I expected. Disappointed.,2025-07-20
+REV00071,PROD0031,CUST0034,3,"Average quality, works fine.",2025-06-23
+REV00072,PROD0042,CUST0011,3,"Average quality, works fine.",2025-09-09
+REV00073,PROD0062,CUST0041,4,Better than expected. Great purchase!,2025-04-04
+REV00074,PROD0035,CUST0005,5,Great product! Highly recommended.,2025-07-20
+REV00075,PROD0016,CUST0081,3,Decent product for the price.,2025-02-17
+REV00076,PROD0048,CUST0012,4,Great product! Highly recommended.,2025-07-04
+REV00077,PROD0049,CUST0082,1,Could use some improvements.,2025-06-22
+REV00078,PROD0011,CUST0089,3,"It's okay, does the job.",2023-07-17
+REV00079,PROD0003,CUST0042,1,Had some issues with this product.,2025-07-12
+REV00080,PROD0023,CUST0048,4,Excellent quality and fast shipping.,2025-03-05
+REV00081,PROD0016,CUST0068,4,"Amazing product, will buy again!",2025-07-19

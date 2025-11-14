@@ -1,0 +1,64 @@
+product_id,product_name,category,price,stock
+PROD0001,First Aid Kit - Finish,Health & Wellness,114.19,255
+PROD0002,Building Blocks - Trade,Toys & Games,80.01,71
+PROD0003,Curtains - Per,Home & Garden,285.07,134
+PROD0004,Thermometer - Laugh,Health & Wellness,449.93,204
+PROD0005,Moisturizer - Focus,Beauty & Personal Care,498.69,70
+PROD0006,Car Cover - Outside,Automotive,54.55,24
+PROD0007,Jeans - Pressure,Clothing,317.45,405
+PROD0008,Doll - As,Toys & Games,41.13,195
+PROD0009,Thermometer - Poor,Health & Wellness,269.27,497
+PROD0010,Car Mat - Sister,Automotive,343.34,58
+PROD0011,Air Freshener - Bit,Automotive,386.61,174
+PROD0012,Dress - Yourself,Clothing,223.03,232
+PROD0013,Camera - Source,Electronics,439.17,134
+PROD0014,Phone Mount - Despite,Automotive,258.76,54
+PROD0015,Tent - Process,Sports & Outdoors,308.4,78
+PROD0016,Moisturizer - Development,Beauty & Personal Care,274.3,398
+PROD0017,Car Mat - Everything,Automotive,303.48,250
+PROD0018,Smartphone - Recent,Electronics,465.26,449
+PROD0019,Dumbbells - Beat,Sports & Outdoors,38.38,449
+PROD0020,Vitamins - Close,Health & Wellness,51.97,248
+PROD0021,Scarf - Education,Clothing,271.03,64
+PROD0022,History Book - Consumer,Books,242.89,281
+PROD0023,Cookbook - Old,Books,268.56,310
+PROD0024,Action Figure - Bad,Toys & Games,465.17,386
+PROD0025,Curtains - Close,Home & Garden,162.74,343
+PROD0026,Perfume - Able,Beauty & Personal Care,450.81,231
+PROD0027,Jeans - Issue,Clothing,120.1,173
+PROD0028,Tablet - Little,Electronics,281.42,301
+PROD0029,Lamp - Risk,Home & Garden,44.79,323
+PROD0030,Laptop - Phone,Electronics,43.03,16
+PROD0031,Shampoo - Many,Beauty & Personal Care,261.94,142
+PROD0032,Tea - Film,Food & Beverages,274.22,370
+PROD0033,Blood Pressure Monitor - Alone,Health & Wellness,241.61,401
+PROD0034,Snacks - Each,Food & Beverages,103.3,49
+PROD0035,Puzzle - Fight,Toys & Games,217.55,239
+PROD0036,Camera - Seat,Electronics,330.19,330
+PROD0037,T-Shirt - Fear,Clothing,207.28,173
+PROD0038,Jeans - Scientist,Clothing,103.88,274
+PROD0039,Tea - Trade,Food & Beverages,216.72,142
+PROD0040,Tea - Long,Food & Beverages,438.5,38
+PROD0041,Wine - Avoid,Food & Beverages,57.98,333
+PROD0042,Car Mat - Right,Automotive,484.81,474
+PROD0043,Cushion - East,Home & Garden,209.14,246
+PROD0044,Mirror - Window,Home & Garden,452.2,84
+PROD0045,Board Game - Everything,Toys & Games,492.8,135
+PROD0046,Chocolate - Store,Food & Beverages,217.27,490
+PROD0047,Car Cover - Strong,Automotive,85.85,151
+PROD0048,Lamp - Process,Home & Garden,293.8,277
+PROD0049,Camera - Perform,Electronics,163.67,25
+PROD0050,Thermometer - Recently,Health & Wellness,256.4,436
+PROD0051,Phone Mount - Summer,Automotive,37.87,260
+PROD0052,Scarf - World,Clothing,101.05,304
+PROD0053,Hat - Decade,Clothing,432.29,206
+PROD0054,Sneakers - Large,Clothing,130.65,304
+PROD0055,Tablet - Building,Electronics,50.17,336
+PROD0056,Blood Pressure Monitor - Off,Health & Wellness,266.16,478
+PROD0057,Dumbbells - Down,Sports & Outdoors,338.17,160
+PROD0058,Plant Pot - Raise,Home & Garden,203.94,343
+PROD0059,Bicycle - Church,Sports & Outdoors,164.93,384
+PROD0060,T-Shirt - When,Clothing,234.56,288
+PROD0061,T-Shirt - Exactly,Clothing,273.44,259
+PROD0062,Dumbbells - The,Sports & Outdoors,467.3,451
+PROD0063,Jeans - Change,Clothing,191.07,80

@@ -1,0 +1,101 @@
+transaction_id,order_id,payment_method,payment_status
+TXN00001,ORD00022,Bank Transfer,Completed
+TXN00002,ORD00066,Bank Transfer,Completed
+TXN00003,ORD00043,Credit Card,Completed
+TXN00004,ORD00031,Bank Transfer,Completed
+TXN00005,ORD00026,Debit Card,Completed
+TXN00006,ORD00032,Apple Pay,Completed
+TXN00007,ORD00010,Apple Pay,Completed
+TXN00008,ORD00074,Debit Card,Completed
+TXN00009,ORD00050,Apple Pay,Completed
+TXN00010,ORD00019,Bank Transfer,Completed
+TXN00011,ORD00014,Apple Pay,Completed
+TXN00012,ORD00067,Apple Pay,Completed
+TXN00013,ORD00032,Credit Card,Completed
+TXN00014,ORD00060,Bank Transfer,Completed
+TXN00015,ORD00072,Google Pay,Completed
+TXN00016,ORD00057,Google Pay,Completed
+TXN00017,ORD00065,Apple Pay,Completed
+TXN00018,ORD00071,Apple Pay,Pending
+TXN00019,ORD00061,Apple Pay,Completed
+TXN00020,ORD00032,Bank Transfer,Completed
+TXN00021,ORD00067,Apple Pay,Completed
+TXN00022,ORD00036,Apple Pay,Completed
+TXN00023,ORD00037,Debit Card,Completed
+TXN00024,ORD00041,Google Pay,Completed
+TXN00025,ORD00020,Debit Card,Completed
+TXN00026,ORD00020,Bank Transfer,Completed
+TXN00027,ORD00054,Apple Pay,Completed
+TXN00028,ORD00060,Apple Pay,Completed
+TXN00029,ORD00054,Apple Pay,Pending
+TXN00030,ORD00075,Bank Transfer,Completed
+TXN00031,ORD00074,Apple Pay,Completed
+TXN00032,ORD00046,PayPal,Completed
+TXN00033,ORD00054,Google Pay,Completed
+TXN00034,ORD00070,Google Pay,Pending
+TXN00035,ORD00063,Debit Card,Completed
+TXN00036,ORD00063,Credit Card,Completed
+TXN00037,ORD00052,Bank Transfer,Completed
+TXN00038,ORD00060,Debit Card,Failed
+TXN00039,ORD00069,Credit Card,Pending
+TXN00040,ORD00076,Google Pay,Completed
+TXN00041,ORD00011,Bank Transfer,Completed
+TXN00042,ORD00060,Debit Card,Completed
+TXN00043,ORD00049,PayPal,Completed
+TXN00044,ORD00042,PayPal,Completed
+TXN00045,ORD00049,PayPal,Completed
+TXN00046,ORD00054,PayPal,Completed
+TXN00047,ORD00061,Credit Card,Completed
+TXN00048,ORD00007,PayPal,Completed
+TXN00049,ORD00009,Bank Transfer,Completed
+TXN00050,ORD00004,Debit Card,Completed
+TXN00051,ORD00003,Google Pay,Completed
+TXN00052,ORD00017,Apple Pay,Completed
+TXN00053,ORD00073,Debit Card,Completed
+TXN00054,ORD00033,PayPal,Completed
+TXN00055,ORD00078,Bank Transfer,Completed
+TXN00056,ORD00021,PayPal,Completed
+TXN00057,ORD00004,PayPal,Completed
+TXN00058,ORD00049,Apple Pay,Pending
+TXN00059,ORD00026,Credit Card,Completed
+TXN00060,ORD00032,Credit Card,Completed
+TXN00061,ORD00039,Bank Transfer,Completed
+TXN00062,ORD00016,Google Pay,Completed
+TXN00063,ORD00045,Google Pay,Completed
+TXN00064,ORD00048,Credit Card,Completed
+TXN00065,ORD00044,Credit Card,Completed
+TXN00066,ORD00063,Credit Card,Completed
+TXN00067,ORD00047,Bank Transfer,Pending
+TXN00068,ORD00059,Bank Transfer,Completed
+TXN00069,ORD00023,Bank Transfer,Completed
+TXN00070,ORD00035,Google Pay,Completed
+TXN00071,ORD00069,Apple Pay,Completed
+TXN00072,ORD00076,PayPal,Completed
+TXN00073,ORD00032,Credit Card,Completed
+TXN00074,ORD00058,Debit Card,Completed
+TXN00075,ORD00073,Google Pay,Completed
+TXN00076,ORD00044,Credit Card,Completed
+TXN00077,ORD00042,Debit Card,Completed
+TXN00078,ORD00046,PayPal,Completed
+TXN00079,ORD00077,Bank Transfer,Pending
+TXN00080,ORD00072,Credit Card,Completed
+TXN00081,ORD00025,Credit Card,Completed
+TXN00082,ORD00053,Apple Pay,Completed
+TXN00083,ORD00031,Bank Transfer,Completed
+TXN00084,ORD00063,Apple Pay,Completed
+TXN00085,ORD00012,PayPal,Completed
+TXN00086,ORD00032,PayPal,Completed
+TXN00087,ORD00048,Apple Pay,Completed
+TXN00088,ORD00045,Apple Pay,Refunded
+TXN00089,ORD00071,PayPal,Completed
+TXN00090,ORD00059,PayPal,Completed
+TXN00091,ORD00030,Credit Card,Completed
+TXN00092,ORD00041,Credit Card,Completed
+TXN00093,ORD00024,Debit Card,Completed
+TXN00094,ORD00062,PayPal,Completed
+TXN00095,ORD00068,Google Pay,Completed
+TXN00096,ORD00013,Debit Card,Completed
+TXN00097,ORD00047,Debit Card,Completed
+TXN00098,ORD00069,Debit Card,Completed
+TXN00099,ORD00007,Google Pay,Completed
+TXN00100,ORD00017,Bank Transfer,Pending
