@@ -28,6 +28,9 @@ diligent/
 ├── prompts/                       # Project prompts/notes
 │   ├── prompt1.txt                # Project prompt 1
 │   └── prompt2.txt                # Project prompt 2
+│   └── prompt3.txt                # Project prompt 3
+│   └── prompt4.txt                # Project prompt 4
+│   └── prompt5.txt                # Project prompt 5
 │
 ├── generate_data.py               # Script to generate synthetic e-commerce CSV datasets
 ├── customer_analytics.sql         # SQL query for customer analytics report
