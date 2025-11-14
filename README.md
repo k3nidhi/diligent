@@ -23,7 +23,11 @@ diligent/
 │   └── reviews.csv                # Product reviews (review_id, product_id, customer_id, rating, review_text, review_date)
 │
 ├── src/                           # Source code directory
-│   └── db_ingest.py               # Database ingestion script (reads CSVs, creates SQLite database with schema)
+│   ├── db_ingest.py               # Database ingestion script (reads CSVs, creates SQLite database with schema)
+│   └── run_query.py               # Script to run SQL queries and save results to CSV files
+│
+├── output/                        # Query results directory
+│   └── customer_analytics_results.csv  # Customer analytics query results (generated after running query script)
 │
 ├── prompts/                       # Project prompts/notes
 │   ├── prompt1.txt                # Project prompt 1
@@ -103,15 +107,27 @@ python src/db_ingest.py
 - `ecommerce.db` SQLite database file will be created
 - Success messages will show the number of rows inserted into each table
 
-### Step 4: Run SQL Query
+### Step 4: Run SQL Query and Save Results
 
-Execute the customer analytics SQL query using one of the following methods:
+Execute the customer analytics SQL query and save results to CSV using one of the following methods:
 
-#### Option A: Using Python
+#### Option A: Using the Query Runner Script (Recommended)
+
+Run the query and automatically save results to the `output/` folder:
 
 ```bash
-python -c "import sqlite3; conn = sqlite3.connect('ecommerce.db'); cursor = conn.cursor(); exec(open('customer_analytics.sql').read().split('--')[0]); print('Query executed successfully'); conn.close()"
+python src/run_query.py
 ```
+
+**What it does:**
+- Executes the `customer_analytics.sql` query
+- Saves results to `output/customer_analytics_results.csv`
+- Displays a preview of the first 5 rows
+- Shows the total number of rows returned
+
+**Output:**
+- `output/customer_analytics_results.csv` - CSV file with query results
+- Success messages showing execution status and row count
 
 #### Option B: Using SQLite Command Line
 
@@ -131,9 +147,18 @@ Then paste the contents of `customer_analytics.sql` or use:
 .read customer_analytics.sql
 ```
 
+To save results to CSV in SQLite CLI:
+
+```sql
+.mode csv
+.headers on
+.output output/customer_analytics_results.csv
+.read customer_analytics.sql
+```
+
 #### Option D: Using a Database GUI Tool
 
-Open `ecommerce.db` with a SQLite database tool (like DB Browser for SQLite, DBeaver, or VS Code SQLite extension) and run the query from `customer_analytics.sql`.
+Open `ecommerce.db` with a SQLite database tool (like DB Browser for SQLite, DBeaver, or VS Code SQLite extension) and run the query from `customer_analytics.sql`. Export results to CSV and save in the `output/` folder.
 
 ## 4. SQL Query Output
 
@@ -195,8 +220,8 @@ python generate_data.py
 # 3. Ingest into SQLite database
 python src/db_ingest.py
 
-# 4. Run analytics query (using SQLite CLI)
-sqlite3 ecommerce.db < customer_analytics.sql
+# 4. Run analytics query and save results to output folder
+python src/run_query.py
 ```
 
 ---
